@@ -1,28 +1,48 @@
-# Hi, I'm Elias Lee 👋
+# 👋 你好，我是 Elias Lee
 
-I work in the travel industry and create content around travel, culture, and AI-assisted writing.
+我是一名从事旅游行业的从业者，，目前主要做新疆，南北疆均有，最近在开始研究甘青。同时也运营有公众号、小红书、facebook的入境旅游，长期关注中国旅行体验、文旅动态以及当地文化，以及 AI 在写作与内容生产中的应用。
 
-## 🌏 About Me
-- Travel industry practitioner based in Asia
-- Content creator focused on China travel experiences
-- Exploring how AI tools can improve writing, planning, and storytelling
+---
 
-## 🤖 What I'm working on
-- Using AI (ChatGPT, Codex, etc.) to improve content workflows
-- Building structured travel content systems
-- Experimenting with automation for writing and planning
+## 🌏 关于我
 
-## ✍️ Interests
-- Travel storytelling
-- AI-assisted content creation
-- Digital workflow optimization
-- Cross-cultural travel communication
+- 旅游行业从业者，主要关注中国旅游线路与目的地内容
+- 内容创作者（公众号 / facebook 方向）
+- 关注 AI 工具在写作与内容生产中的实际应用
+- 喜欢通过写作和影像记录旅行中的观察与体验
 
-## 📌 Current Focus
-I'm currently learning how to integrate AI tools into:
-- Travel itinerary design
-- Content production systems
-- Multilingual travel communication
+---
 
-## 📫 Contact
-- Email: bigplayerclub@gmail.com
+## 🤖 我正在关注的方向
+
+- 用 AI 提升内容写作效率（如文章、视频脚本、旅行策划）
+- 建立结构化的内容生产流程
+- 探索 AI 在旅游行业中的实际应用场景
+- 尝试将工具化思维用于内容创作
+
+---
+
+## ✍️ 内容兴趣
+
+- 旅行故事与文化观察
+- 中国各地旅游体验（尤其是新疆、云南、西北地区）
+- AI 辅助写作与内容优化
+- 多平台内容表达（公众号 / facebook / 小红书 / twitter ）
+
+---
+
+## 📌 当前状态
+
+目前正在尝试将 AI 工具融入到我的日常工作中，例如：
+
+- 旅行线路策划
+- 文章结构优化
+- 视频内容脚本生成
+- 多语言内容表达辅助
+
+---
+
+## 📫 联系方式
+
+- Email：bigplayerclub@gmail.com
+- Line：bigplayerclub
